@@ -8,8 +8,7 @@ metrics, and an honest read of what the numbers mean.
 
 ## Tech Stack
 
-Python · pandas · NumPy · scikit-learn · XGBoost · Optuna · Matplotlib ·
-Seaborn · Jupyter
+Python · pandas · NumPy · scikit-learn · XGBoost · Optuna 
 
 ---
 
